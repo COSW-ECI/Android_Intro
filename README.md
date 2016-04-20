@@ -143,3 +143,5 @@ Ahora, va a agregar una funcionalidad que le permite visualizar un mapa que le i
  ```
 
 5. Verifique el funcionamiento de su aplicación. Opcionalmente revise el [API de la clase GoogleMap](https://developers.google.com/android/reference/com/google/android/gms/maps/GoogleMap#nested-class-summary) para afinar el comportamiento del mapa (agregar elementos geométricos, cambiar el zoom, etc).
+
+	![](img/workingapp.png)
